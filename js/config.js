@@ -103,9 +103,10 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"Enjoy the server",
-"Thanks for joining us!",
-"Did you know these backgrounds and songs are from Touhou?"
+"Добро Пожаловать!",
+"Будьте адекватным игроком нашего сервера!",
+"Спасибо,что играете у нас!",
+"У нас присутствует новый Point Shop 2"
 ];
 
 /*Random message order?*/
